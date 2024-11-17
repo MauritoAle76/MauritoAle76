@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hola soy Mauro, ingresando al mundo de programacion
+#Hi there 👋
+## Hola soy Mauro, ingresando al mundo de programacion
 <!--
 **MauritoAle76/MauritoAle76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
